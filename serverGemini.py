@@ -1,4 +1,3 @@
-import socket
 from socket import *  # Import semua modul socket
 import sys  # Import modul sys untuk mengakhiri program
 
